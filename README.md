@@ -14,12 +14,15 @@ The Application is hosted at : https://covid-19-tracker.sharmakumaraditya.now.sh
 
 
 # Desktop View of the Application
+
 ![](src/images/screenshot1.png)
 
 
 ![](src/images/screenshot2.png)
 
+
 # Mobile View Of the Application
+
 ![](src/images/screenshot3.png)
 
 
